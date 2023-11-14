@@ -10,4 +10,6 @@ comment4.params=arr2d
 comment4.target=void\ print2DArray(java.lang.String[][])
 comment5.params=arr2d
 comment5.target=void\ checkWinner(java.lang.String[][])
-numComments=6
+comment6.params=p1w\ p2w
+comment6.target=boolean\ has3Points(int,\ int)
+numComments=7
